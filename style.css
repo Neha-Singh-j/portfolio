@@ -72,7 +72,7 @@ html {
   color: #000;
 }
 
-/* Menu Button Styling */
+/* Menu Button Styling  is good*/
 .menu-btn {
   color: white;
   font-size: 23px;
@@ -99,10 +99,11 @@ html {
   pointer-events: none;
   transition: all 0.3s ease;
 }
+/* for scrolling */
 .scroll-up-btn.show {
   opacity: 1;
   pointer-events: auto;
-  bottom: 30px;
+  bottom: 32px;
 }
 
 /* Fade In & Fade Out Elements on Scroll Start */

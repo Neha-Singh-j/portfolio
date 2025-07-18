@@ -44,6 +44,7 @@ This is my **personal portfolio website**, where I showcase my skills, projects,
 
 1. Clone the repository:
 
+
    ```bash
    git clone https://github.com/yourusername/your-portfolio.git
    ```
@@ -72,4 +73,5 @@ If you’d like to connect or collaborate:
 * 📧 Email: [Neha Singh](mailto:neha.singh.888.j@gmail.com)
 * 💼 LinkedIn: [Neha-Singh](https://www.linkedin.com/in/neha-singh-4952992a7)
 * 🐙 GitHub: [@Neha-Singh-j](https://github.com/Neha-Singh-j)
+
 

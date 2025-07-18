@@ -6,6 +6,7 @@ $(document).ready(function () {
       } else {
         $(".navbar").removeClass("sticky");
       }
+      // Add active class to navbar links on scroll
       // Scroll down sticky navbar script end
   
       // Scroll up Button script start
@@ -84,7 +85,7 @@ $(document).ready(function () {
         },
       },
     });
-    // owl carousel script end
+    // owl carousel script end   is here
   });
   
   // Get the current year
